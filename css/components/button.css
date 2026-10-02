@@ -1,0 +1,19 @@
+.btn-green{
+	display:inline-block;
+	background-color: #7A9449;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 16px;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+}
+
+.btn-green:hover{
+	background-color: darkgreen;
+	color:white;
+}
+
+.copy-email{
+	margin-bottom: 20px;
+}
